@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+chromadb
+requests
+sentence-transformers
+pydantic
+python-dotenv
+langchain-community
+langchain_experimental
+langchain_huggingface
+openai
+google-search-results
+python-multipart
+python-docx
+pymupdf
