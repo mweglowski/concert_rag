@@ -139,7 +139,9 @@ To **avoid pain**, you can try running it on docker 🐳. It's clean and platfor
 - **`python-docx`**: Library for reading and writing `.docx` files.
 - **`pymupdf`**: Python binding for MuPDF to process PDF documents.
 
-### 🔑 Configuration
+---
+
+## 🔑 Configuration
 
 Before running the backend, ensure you have set up the following **environment variables** in your /backend/.env file:
 
@@ -148,6 +150,8 @@ SERPAPI_API_KEY=your_serpapi_key
 
 OPENROUTER_API_KEY=your_openrouter_api_key
 ```
+
+---
 
 ## 🧱 Tech Stack
 
@@ -182,6 +186,7 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 - **OpenRouter API**: Used for generating AI-based responses using GPT models.
 - **Hugging Face**: Integration for using transformer models for text processing.
 
+---
 
 ## 🎉 Have Fun!
 
@@ -193,4 +198,4 @@ Now that everything’s set up, it’s time to explore and have fun with the **I
 
 Remember, this project is all about making document queries smarter and fun — so dive in and see what you can do! 😎
 
-Enjoy! 🚀
+**ENJOY!** 🚀
