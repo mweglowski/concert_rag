@@ -78,7 +78,7 @@ cd ProvectusInternship_MarcinWeglowski
 Linux/macOS:
 ```bash
 cd backend
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate
 
 ```
