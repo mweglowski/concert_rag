@@ -133,7 +133,7 @@ To **avoid pain**, you can try running it on docker 🐳. It's clean and platfor
 - **`langchain-community`**: Framework for working with LLMs and integrating documents for intelligent search.
 - **`langchain-experimental`**: Experimental functionality in Langchain for advanced use cases.
 - **`langchain-huggingface`**: Integrates Hugging Face models with Langchain for text processing.
-- **`openai`**: Python client for interacting with OpenAI's API (e.g., GPT models).
+- **`openai`**: Python client for interacting with OpenAI's API, here used for OpenRouter services.
 - **`google-search-results`**: Python client for querying Google search results via SerpAPI.
 - **`python-multipart`**: Handles multi-part form data (e.g., file uploads) in FastAPI.
 - **`python-docx`**: Library for reading and writing `.docx` files.
