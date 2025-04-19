@@ -71,7 +71,7 @@ git clone https://github.com/mweglowski/project-name.git
 cd project-name
 ```
 
-### 🔙 Backend Setup (Python + FastAPI)
+### ⚙️ Backend Setup (Python + FastAPI)
 
 **Set up the virtual environment**
 
@@ -155,7 +155,7 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 
 ## 🧱 Tech Stack
 
-### 💻 Backend
+### ⚙️ Backend
 
 - **Python 3.11**: Clean syntax, async capabilities, and a rich ecosystem for fast development.
 - **FastAPI**: Modern web framework for building APIs with async support and automatic documentation.
@@ -165,7 +165,7 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 - **Sentence-Transformers**: Converts documents into embeddings using transformer models.
 - **Requests**: Simple HTTP requests to external APIs for data fetching (SerpAPI, OpenRouter).
 
-### 🖥️ Frontend
+### 🎨 Frontend
 
 - **React**: Component-based UI library for building interactive web interfaces.
 - **Vite**: Fast development server and build tool for modern web projects.
