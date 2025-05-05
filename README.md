@@ -67,8 +67,8 @@ Check out the video below to see the **Intelligent Document QA Assistant** in ac
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/mweglowski/ProvectusInternship_MarcinWeglowski.git
-cd ProvectusInternship_MarcinWeglowski
+git clone https://github.com/mweglowski/concert_rag.git
+cd concert_rag
 ```
 
 ### ⚙️ Backend Setup (Python + FastAPI)
